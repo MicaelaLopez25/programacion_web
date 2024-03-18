@@ -1,0 +1,13 @@
+/*para poder agrupar caracteristicas vamos a crear clases*/
+/* .clase */
+
+.encabezado {
+
+   text-align: center;
+}
+
+.minConect {
+
+   display: flex;
+   justify-content: space-evenly;
+}
