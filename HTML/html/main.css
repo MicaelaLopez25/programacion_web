@@ -2,12 +2,10 @@
 /* .clase */
 
 .encabezado {
-
-   text-align: center;
+  text-align: center;
 }
 
 .minConect {
-
-   display: flex;
-   justify-content: space-evenly;
+  display: flex;
+  justify-content: space-between;
 }

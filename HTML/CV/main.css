@@ -1,0 +1,25 @@
+.encabezado {
+  display: flex;
+}
+
+.minConect {
+  display: flex;
+  justify-content: space-evenly;
+}
+.cajafoto {
+  width: 60%;
+}
+
+.letra {
+  display: flex;
+  justify-content: left;
+}
+
+.foto {
+  width: 450px;
+}
+
+.cajatitulo {
+  width: 200%;
+  background-color: rgb(113, 111, 224);
+}
