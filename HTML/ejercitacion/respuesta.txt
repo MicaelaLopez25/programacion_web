@@ -1,0 +1,7 @@
+1) la propiedad que nos sirve  para cambiar el comportamiento de los elementos en un contenedor es display;flex
+2) el que permite definir ese espacio es  grid
+3) el  align-items sirve para alinear nuestras cajas a la hora de alinearlas y  justify-content controla la alineacion en forma horizontal 
+4)se usa la propiedad grid-template-columns para definir el tamaño de los contenedores 
+5) la diferencai principal el que flex se creo para una sola columna/fila en cambio grid para multiples al mismo tiempo
+y tambien la grilla da varios cuadraditos
+6) se utiliza la propiedad la justify-content

@@ -1,0 +1,9 @@
+.alineacion {
+  display: flex;
+  justify-content: center;
+}
+.align {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

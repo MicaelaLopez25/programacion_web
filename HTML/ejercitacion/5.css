@@ -1,0 +1,5 @@
+.alineacion {
+  display: grid;
+  grid-template-columns: 300px 200px;
+  grid-template-rows: 150px 250px;
+}
