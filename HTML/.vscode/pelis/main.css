@@ -1,37 +1,39 @@
 .titulo {
-    text-align: center;
-   font-family: monospace;
-   color: aliceblue;
+  text-align: center;
+  font-family: monospace;
+  color: rgb(8, 8, 8);
 }
-.fondopagina{
-    background-image: url("fts/en\ efecto\ es\ cine.jpg");
-    background-size: cover;
+.fondopagina {
+  background-image: url("fts/en\ efecto\ es\ cine.jpg");
+  background-size: cover;
 }
-.grilla{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
-    grid-auto-rows: auto;
-   gap: 30px;
+.grilla {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-auto-rows: auto;
+  gap: 30px;
 }
-.carteleraTamaño{
+.carteleraTamaño {
   width: 100%;
   aspect-ratio: 1 / 2;
   object-fit: cover;
   margin: 3%;
 }
 
-.aleneadoFoto{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
+.aleneadoFoto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.borde{
-    border-style: solid;
-    border-color: rgb(121, 3, 3);
-    background-color: rgb(121, 3, 3);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.borde {
+  border-style: solid;
+  border-color: rgb(121, 3, 3);
+  background-color: rgb(121, 3, 3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.imagenfondo {
+  background-image: url(imgs/.fondoletra);
 }
