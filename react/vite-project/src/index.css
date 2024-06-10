@@ -1,0 +1,22 @@
+.background-container {
+  background-image: url("./public/img/flores.jpg");
+  background-size: cover; /* La imagen cubrirá todo el contenedor */
+  background-position: center; /* La imagen se centrará dentro del contenedor */
+  /* Puedes añadir más estilos según lo necesites */
+  height: 100vw;
+}
+
+.tarjetita {
+  background-color: rgb(96, 43, 131);
+  border: 2px solid rgb(96, 43, 131);
+  border-radius: 30px;
+  height: 450px;
+  width: 300px;
+}
+.grilla {
+  gap: 300px;
+  margin: 20px;
+  display: 20px;
+  display: flex;
+  justify-content: center;
+}
