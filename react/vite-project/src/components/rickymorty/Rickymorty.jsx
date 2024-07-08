@@ -10,9 +10,9 @@ export default function Rickymorty() {
   }, []);
   return (
     <>
-      <div className="grilla ">
+      <div className="grilla3 ">
         {data.map((personaje, i) => (
-          <div className="card" key={i}>
+          <div className="card2" key={i}>
             <h1>{personaje.name}</h1>
             <h2>{personaje.gender}</h2>
             <h2>{personaje.location.name}</h2>

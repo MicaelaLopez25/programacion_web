@@ -7,7 +7,8 @@ import Convertir from "./components/Moneda/moneda";
 function App() {
   return (
     <>
-      <Convertir />
+      <Rickymorty />
+      <Detalle />
     </>
   );
 }
